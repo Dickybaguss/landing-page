@@ -295,7 +295,7 @@
       });
     </script>
 
-    <!-- Js Jamie Wilson untuk google sheet form -->
+    <!-- untuk mengisi google sheet form -->
     <script>
       const scriptURL = 'https://script.google.com/macros/s/AKfycbz-sARhqd0zcTp6oYII1dlUNECpDsOeFu232Ff0Mwov8bpYHm_Sa126D8hT_-VRON8FVQ/exec';
       const form = document.forms['dbw-form-message'];
